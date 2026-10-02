@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm Sarim Saeed👋
 
-<!--
-**Sarimsaeed812/Sarimsaeed812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 🐍 **Python Developer** | 🤖 **AI & ML Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate developer exploring software engineering, machine learning, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 About Me
+- 📚 **Learning:** Web Development, AI and Machine Learning 
+- 💻 **Focus:** Building Python applications and exploring AI model deployments
+- 🌱 **Goal:** Contributing to open-source AI projects and building impactful tools
+- 📫 **Connect:** [LinkedIn](https://linkedin.com/in/sarimismail812) | [Email](mailto:sarimismail10@gmail.com)
+
+### 🛠️ Tech & Tools (Learning)
+- **Languages:** Python
+- **AI/Data Science**
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
